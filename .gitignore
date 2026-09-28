@@ -1,0 +1,7 @@
+.env
+.env.*
+.venv/
+__pycache__/
+*.py[cod]
+imagem_gerada.*
+.DS_Store
